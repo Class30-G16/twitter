@@ -2,3 +2,5 @@
 simon
 peter
 paul
+Obi
+ChiChi
