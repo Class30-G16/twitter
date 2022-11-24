@@ -12,3 +12,5 @@ deploy to staging
 tested and accepted 
 development5
 development
+Deploy python 
+deploy everything
