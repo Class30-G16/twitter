@@ -1,6 +1,6 @@
 # List of users 
 simon
-peter
+kennedy
 paul
 Obi
 ChiChi
